@@ -15,6 +15,9 @@
 ### The challenge
 
 Users should be able to:
+#### Hover on any movie to show the movie overview
+#### Search for keywords and movies will appear with the specified word
+#### See the movies based on popularity in descending order
 
 
 ### Demo
