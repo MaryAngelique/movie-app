@@ -5,7 +5,7 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Features](#features)
-  - [Demo](#demo)
+  - [Demo](#project-demo)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -16,9 +16,9 @@
 ### The challenge
 
 Users should be able to:
-#### Hover on any movie to show the movie overview
-#### Search for keywords and movies will appear with the specified word
-#### See the movies based on popularity in descending order
+#### - Hover on any movie to show the movie overview
+#### - Search for keywords and movies will appear with the specified word
+#### - See the movies based on popularity in descending order
 
 
 ### Features
@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github link)
+- Solution URL: [https://github.com/MaryAngelique/movie-app)
 - Live Site URL: [vercel link)
 
 ## My process
