@@ -49,3 +49,5 @@ Users should be able to:
 
 - LinkedIn - [Mary Angelique A. Abacajan](https://www.linkedin.com/in/mary-angelique-abacajan/)
 - Github - [@MaryAngelique](https://www.github.com/MaryAngelique)
+- LinkedIn - [Mark Escosura](https://www.linkedin.com/in/markintech/)
+- Github - [@mark-escosura](https://www.github.com/ark-escosura)
