@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/MaryAngelique/movie-app)
-- Live Site URL: [vercel link)
+- Live Site URL: [[vercel link](https://movie-app-angelique.vercel.app/))
 
 ## My process
 
