@@ -16,16 +16,17 @@
 ### The challenge
 
 Users should be able to:
-#### - Hover on any movie to show the movie overview
-#### - Search for keywords and movies will appear with the specified word
-#### - See the movies based on popularity in descending order
 
+#### - Hover on any movie to show the movie overview
+
+#### - Search for keywords and movies will appear with the specified word
+
+#### - See the movies based on popularity in descending order
 
 ### Features
 
-
-
 ### Project Demo
+
 [![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](https://www.loom.com/share/04308484bbe5487a8bca8ba87c988ac8)
 
 ### Links
@@ -44,6 +45,7 @@ Users should be able to:
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
+- Media Queries
 
 ## Author
 
