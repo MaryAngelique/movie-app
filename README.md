@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Movie App GitHub Solution](https://github.com/MaryAngelique/movie-app)
-- Live Site URL: [Movie App Website](https://movie-app-angelique.vercel.app/)
+- Live Site URL: [Movie App Website](https://movie-app-project-zero.vercel.app/)
 
 ## My process
 
